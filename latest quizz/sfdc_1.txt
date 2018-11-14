@@ -1,0 +1,102 @@
+Q. Which of the following data type will allow embeding image?
+1). Text
+2). Text Area
+3). Text Area (long)
+4). Text Area (Rich)
+Solution :
+option [4] is correct
+
+2Q. Which of the following tool is used as a development and testing environment on Force.com?
+1). Metadata API
+2). Sandbox
+3). Eclipse
+4). developer.force.com
+Solution :
+option [2] is correct
+
+3Q. Which of the following will be used to collaborate on different development projects?
+1). Metadata API
+2). Force.com IDE
+3). Force.com sandbox
+4). Force.com code share
+Solution :
+option [4] is correct
+
+4Q. Which of the following Apps are a good fit for PaaS?
+1). Content and Data centric
+2). Data and Process centric
+3). Process and Transaction centric
+4). Content and Transaction centric
+Solution :
+option [2] is correct
+
+5Q. Match the following:
+
+i.Force.com
+ii.Heroku
+iii.Touch Platform
+vi.Identity
+v.Database.com
+vi.Chatter
+
+a. Build and deploy mobile apps
+b. Deliver trusted identity management
+c. Make your business social
+d. Share and store data securely
+e. Build and deploy employee apps
+f. Build and deploy customer apps
+1). i-e, ii-a, iii-f, iv-d, v-b, vi-c
+2). i-e, ii-f, iii-a, iv-b, v-d, vi-c
+3). i-e, ii-f, iii-a, iv-c, v-d, vi-b
+4). i-f, ii-e, iii-a, iv-c, v-d, vi-b
+Solution :
+option [2] is correct
+
+6Q. Which of the following is true about MetaData API on Force.com?
+1). It provides access to data model, UI and Business logic
+2). it is defined as XML and can be imported and exported
+3). deploy rested changes to production organization
+4). It provides definitions of the customizations you make
+Solution :
+option [2,4] are correct
+
+7Q. Match the following for Declarative Application Model:
+
+i. Application Tabs
+ii. Approval Processes
+iii. Objects and Fields
+
+a. Data Model
+b. User Interface
+c. Business Logic
+1). i-a,ii-c,iii-b
+2). i-c,ii-a,iii-b
+3). i-b,ii-c,iii-a
+4). i-b,ii-a,iii-c
+Solution :
+option [3] is correct
+
+8Q. Which of the following is true abou the custom fields created in Sales force?
+1). Deleted fields are stored for 10 days
+2). Old custom fields can be recovered but data is lost
+3). Deleted fields are stored for 15 days
+4). Old custom fields can be recovered with data
+Solution :
+option [3,4] are correct
+
+
+9Q. _________ feature provides second level of authentication when logged into Salesforce.
+1). UserID
+2). Secret question
+3). Trusted IP range
+4). Capta
+Solution :
+option [3] is correct
+
+10Q. Which o fthe following development model is useful for Business users and Administrators?
+1). Declarative
+2). Procedural Code
+3). Point and Click
+4). Developer Target
+Solution :
+option [1,3] are correct
